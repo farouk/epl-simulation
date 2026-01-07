@@ -1,8 +1,5 @@
 Licensed under the MIT License.
 
-# epl-simulation
-Monte Carlo simulation of the EPL title race using real fixtures and goal models.
-
 # EPL Title Race – Monte Carlo Simulation
 
 This notebook simulates the remainder of an EPL season using a simple
