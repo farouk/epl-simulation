@@ -1,6 +1,10 @@
 Licensed under the MIT License.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farouk/epl-simulation/blob/main/Arsenal_EPL_MonteCarlo_Colab.ipynb)
+## How to run
+1. Open the notebook in Colab (button above)
+2. Upload your fixtures/results CSV when prompted (or set the CSV path)
+3. Run all cells to reproduce the simulation + chart
 
 
 
