@@ -1,6 +1,7 @@
 Licensed under the MIT License.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/farouk/epl-simulation/blob/main/Arsenal_EPL_MonteCarlo_Colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farouk/epl-simulation/blob/main/Arsenal_EPL_MonteCarlo_Colab.ipynb)
+
 
 
 # EPL Title Race – Monte Carlo Simulation
